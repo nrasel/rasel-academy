@@ -1,0 +1,29 @@
+.icon-style{
+    background: #ffeded;
+    color: #d9d0d0;
+    border-radius: 36px;
+    height: 35px;
+    width: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1px 1px 3px grey;
+}
+.icon-style i{
+    color: #666666;
+}
+.man-style{
+    color: #d9d0d0;
+    border-radius: 36px;
+    position: relative;
+}
+.man-style img{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.man-style span{
+    border: 1px solid #c7adad;
+    border-radius: 41px;
+    padding: 3px 26px;
+}

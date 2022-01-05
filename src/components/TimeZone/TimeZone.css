@@ -1,0 +1,29 @@
+.clock-bg{
+    background-color: red;
+    color: white;
+    padding: 7px 12px;
+    position: absolute;
+    right: 45px;
+    border-radius: 4px;
+}
+.form-select{
+    border-right: 0;
+    border-radius: 5px;
+    border: 1px solid #bfbbbb;
+    cursor: pointer;
+}
+.form-select:focus {
+    box-shadow: none;
+
+}
+.form-control{
+    background-color: #f9f4ec;
+    padding: -0.625rem .75rem !important;
+    outline: none;
+}
+.form-control:focus{
+    box-shadow: none;
+    border: none;
+    background-color: #f9f4ec;
+    /* outline: none; */
+}
